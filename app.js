@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', () => {
 });
 
 /**
- * Generates the user list dynamically
+ * Generates the user list dynamicallly
  */
 function generateUserList(users) {
     const userList = document.querySelector('.user-list');
